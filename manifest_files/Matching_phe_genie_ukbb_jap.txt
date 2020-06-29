@@ -1,0 +1,137 @@
+Annotation_in_HPEACE	JBB	JBB	UKBB	UKBB	UKBB	UBKK	UKBB	GWAS_catalog	GWAS_catalog	GWAS_catalog	GWAS_catalog	GWAS_catalog	GWAS_catalog	GWAS_catalog
+AFP														
+agitation			Recent feelings or nervousness or anxiety											
+alcohol_heavy			Alcohol intake frequency.	Frequency of drinking alcohol				Acute_alcohol_sensitivity/Alcohol_dependence/Esophageal_cancer/_alcohol-related/_susceptibility_to/Sublingual_nitroglycerin/_susceptibility_to_poor_response_to/Susceptibility_to_hangover						
+ALP	Alkaline phosphatase (ALP) (chrX)	Alkaline phosphatase (ALP) (autosome)	Alkaline phosphatase (U/L)											
+aorta_dilatation			Aortic aneurysm											
+Appetite_change_increase			Recent poor appetite or overeating											
+aPTT	Activated partial thromboplastin time (APTT) (chrX)	Activated partial thromboplastin time (APTT) (autosome)		Other coagulation defects										
+atrophic_gastritic				"Non-cancer illness code, self-reported: gastritis/gastric erosions"										
+BASOPHIL	Basophil count (Baso) (chrX)	Basophil count (Baso) (autosome)	Basophill percentage											
+BMI	"Body mass index (BMI) (autosomes, all)"		Body mass index (BMI)					OBESITY_(BMIQ14)/_SUSCEPTIBILITY_TO						
+brain_aneurysmm	Cerebral aneurysm 		"Cerebral aneurysm, nonruptured"											
+brain_atherosclerosis	Ischemic stroke 		"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere"	Diagnoses - main ICD10: I67 Other cerebrovascular diseases										
+brain_atrophy														
+brain_stenosis	Ischemic stroke 		"Diagnoses - main ICD10: I65 Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction"											
+brain_SVD														
+brain_UBO														
+breast_cancer			Malignant neoplasm of breast	Diagnoses - main ICD10: C50 Malignant neoplasm of breast				Breast_carcinoma						
+BUN	Blood urea nitrogen (BUN) (chrX)	Blood urea nitrogen (BUN) (autosome)	"Non-cancer illness code, self-reported: renal/kidney failure"											
+CA125														
+CA19_9														
+cal_score_cont			Coronary atherosclerosis					Coronary_heart_disease_7						
+CALCIUM	Calcium (Ca) (autosome)	Calcium (Ca) (chrX)	Calcium (mmol/L)					Familial_hypocalciuric_hypercalcemia/Hypocalcemia/Hypoparathyroidism_familial_isolated/Neonatal_severe_hyperparathyroidism/Serum_calcium_level/not_specified						
+cataract	Cataract 		"Non-cancer illness code, self-reported: cataract"	Age cataract diagnosed				Age-related_cortical_cataract/Cataract_6/_multiple_types						
+CEA														
+cholecystitis			"Non-cancer illness code, self-reported: cholecystitis"	Diagnoses - main ICD10: K81 Cholecystitis										
+CL	Chloride (Cl) (autosome)	Chloride (Cl) (chrX)												
+cognitive_funx			Diagnoses - main ICD10: R41 Other symptoms and signs involving cognitive functions and awareness											
+coronary_plaque			Coronary atherosclerosis											
+coronary_stenosis			Coronary atherosclerosis					Coronary_heart_disease_7						
+CREATININE	Serum creatinine (sCr) (chrX)	Serum creatinine (sCr) (autosome)	Creatinine (umol/L)											
+daily_coffee01_23			Coffee consumed											
+Depressed_mood			"Non-cancer illness code, self-reported: depression"	"Non-cancer illness code, self-reported: depression"										
+depression_score			"Non-cancer illness code, self-reported: depression"	"Non-cancer illness code, self-reported: depression"										
+DEXA_bone_density	Osteoporosis 		"Non-cancer illness code, self-reported: osteoporosis"	"Non-cancer illness code, self-reported: osteopenia"	Osteoporosis	Diagnoses - main ICD10: M80 Osteoporosis with pathological fracture	Diagnoses - main ICD10: M80 Osteoporosis with pathological fracture							
+DM_diagnosis	Type 2 diabetes 	Type 2 Diabetes 	Diabetes diagnosed by doctor	Type 2 diabetes	"Non-cancer illness code, self-reported: diabetes"			Diabetes_mellitus_type_2	Diabetes_mellitus_type_2/High_density_lipoprotein_cholesterol_level_quantitative_trait_locus_12	DIABETES_MELLITUS/_TYPE_2/_SUSCEPTIBILITY_TO				
+drusen														
+duodenal_ulcer			Diagnoses - main ICD10: K26 Duodenal ulcer	"Non-cancer illness code, self-reported: duodenal ulcer"										
+Dyslipid_diagnosis														
+education			Leisure/social activities: Adult education class											
+EKG_1DAVB														
+EKG_axis														
+EKG_infarct														
+EKG_ischemia														
+EKG_rate			"ECG, heart rate"											
+EKG_RBBB														
+EKG_sinusbradycardia														
+EOSINOPHIL			Eosinophill percentage											
+exercise_continuous			Frequency of other exercises in last 4 weeks	Duration of other exercises	"Types of physical activity in last 4 weeks: Other exercises (eg: swimming, cycling, keep fit, bowling)"									
+fatigue			Recent feelings of tiredness or low energy											
+fatty_liver_4grade0_123			Nonalcoholic fatty liver disease					Fatty_liver_disease/_nonalcoholic_1/Susceptibility_to_Nonalcoholic_Fatty_Liver_Disease/asparaginase_response_-_Toxicity/ADR/cyclophosphamide_response_-_Toxicity/ADR/daunorubicin_response_-_Toxicity/ADR/prednisolone_response_-_Toxicity/ADR/vincristine_response_-_Toxicity/ADR	Susceptibility_to_Nonalcoholic_Fatty_Liver_Disease					
+FEV1_FVC_percent														
+FEV1_L			"Forced expiratory volume in 1-second (FEV1), predicted"											
+FEV1_percent			"Forced expiratory volume in 1-second (FEV1), predicted percentage"											
+free_T4			"Non-cancer illness code, self-reported: hyperthyroidism/thyrotoxicosis"	"Non-cancer illness code, self-reported: hypothyroidism/myxoedema"										
+FVC_L			"Forced vital capacity (FVC), Best measure"											
+FVC_percent														
+gastric_cancer	Gastric cancer 		"Cancer code, self-reported: stomach cancer"	Malignant neoplasm of stomach	Diagnoses - main ICD10: C16 Malignant neoplasm of stomach									
+gastric_ulcer			Diagnoses - main ICD10: K25 Gastric ulcer	"Non-cancer illness code, self-reported: gastric/stomach ulcers"										
+GB_adenomyomatosis														
+GB_polyp														
+GB_stone			"Non-cancer illness code, self-reported: cholelithiasis/gall stones"											
+GERD			Diagnoses - main ICD10: K21 Gastro-oesophageal reflux disease											
+GFR	Estimated glomerular filtration rate (eGFR) (autosome)	Estimated glomerular filtration rate (eGFR) (chrX)	"Non-cancer illness code, self-reported: renal/kidney failure"											
+GGT	_-glutamyl transferase (GGT) (autosome)	_-glutamyl transferase (GGT) (chrX)	Gamma glutamyltransferase (U/L)											
+glucose	Blood sugar (BS) (chrX)	Blood sugar (BS) (autosome)	Glucose (mmol/L)					Fasting_plasma_glucose_level_quantitative_trait_locus_5						
+GOT	Aspartate aminotransferase(AST) (chrX)	Aspartate aminotransferase(AST) (autosome)	Aspartate aminotransferase (U/L)											
+GPT	Alanine aminotransferase (ALT) (autosome)	Alanine aminotransferase (ALT) (chrX)	Alanine aminotransferase (U/L)											
+guilt_feeling			Guilty feelings											
+HB	Hemoglobin (Hb) (chrX)	Hemoglobin (Hb) (autosome)	Haemoglobin concentration					Erythrocytosis/_familial/_3/Familial_erythrocytosis/Hemoglobin/_high_altitude_adaptation	Microcytic_anemia/not_specified					
+HBA1C	Hemoglobin A1c (HbA1c) (chrX)	Hemoglobin A1c (HbA1c) (autosome)	Glycated haemoglobin (mmol/mol)											
+HBV	Chronic hepatitis B 		Diagnoses - main ICD10: B18 Chronic viral hepatitis	"Non-cancer illness code, self-reported: infective/viral hepatitis"	Viral hepatitis									
+HCT	Hematocrit (Ht) (autosome)	Hematocrit (Ht) (chrX)	Haematocrit percentage											
+HCV	Chronic hepatitis C 		Diagnoses - main ICD10: B18 Chronic viral hepatitis	"Non-cancer illness code, self-reported: infective/viral hepatitis"	Viral hepatitis									
+HDL	High-density-lipoprotein cholesterol (HDL-C) (chrX)	High-density-lipoprotein cholesterol (HDL-C) (autosome)	HDL cholesterol (mmol/L)					Diabetes_mellitus_type_2/High_density_lipoprotein_cholesterol_level_quantitative_trait_locus_12	High_density_lipoprotein_cholesterol_level_quantitative_trait_locus_11	High_density_lipoprotein_cholesterol_level_quantitative_trait_locus_11/Hyperlipoproteinemia/_type_I				
+Height	"Height (autosome, all)"		Standing height											
+HTN_diagnosis	Diastolic blood pressure (DBP) (autosome)	Systolic blood pressure (SBP) (autosome)	Hypertension	Diagnoses - main ICD10: I10 Essential (primary) hypertension	"Non-cancer illness code, self-reported: hypertension"	"Non-cancer illness code, self-reported: essential hypertension"								
+Inbody_Body_fat_mass			Whole body fat mass											
+Inbody_Fat_percent			Body fat percentage											
+Inbody_skeletal_muscle_mass														
+intestinal_metaplasia														
+IOP_rt	Glaucoma 		OCT measured (right): Measurable											
+IOP_left	Glaucoma 		OCT measured (left): Measurable	Glaucoma suspect	Eye problems/disorders: Glaucoma									
+IPMN														
+K	Potassium (K) (chrX)	Potassium (K) (autosome)												
+LDL_chol	Low-density-lipoprotein cholesterol (LDL-C) (chrX)	Low-density-lipoprotein cholesterol (LDL-C) (autosome)	LDL direct (mmol/L)					Low_density_lipoprotein_cholesterol_level_quantitative_trait_locus_6						
+liver_hemangioma														
+loss_of_interest			Recent lack of interest or pleasure in doing things											
+LYMPHOCYTE			Lymphocyte percentage											
+macular_change			"Non-cancer illness code, self-reported: macular degeneration"	Eye problems/disorders: Macular degeneration				Age-related_macular_degeneration_8/Macular_degeneration/not_provided	Age-related_macular_degeneration_7/Susceptibility_to_neovascular_type_of_age-related_macular_degeneration	Atypical_hemolytic_uremic_syndrome/Complement_component_2_deficiency/Factor_B_fast/slow_polymorphism/Macular_degeneration	Cerebrooculofacioskeletal_Syndrome/Cockayne_syndrome/Macular_degeneration	Age-related_macular_degeneration_14/Complement_component_2_deficiency/Macular_degeneration/not_specified	Atypical_hemolytic_uremic_syndrome/Macular_degeneration	Age-related_macular_degeneration_14/Atypical_hemolytic_uremic_syndrome/Complement_component_2_deficiency/Macular_degeneration/not_specified
+marital														
+MCH	Mean corpuscular hemoglobin (MCH) (chrX)	Mean corpuscular hemoglobin (MCH) (autosome)	Mean corpuscular haemoglobin											
+MCHC	Mean corpuscular hemoglobin concentration (MCHC) (chrX)	Mean corpuscular hemoglobin concentration (MCHC) (autosome)	Mean corpuscular haemoglobin concentration											
+MCV	Mean corpuscular volume (MCV) (chrX)	Mean corpuscular volume (MCV) (autosome)	Mean corpuscular volume											
+metabolic_syndrome			"Endocrine, nutritional and metabolic diseases"											
+MONOCYTE	Monocyte count (Mono) (chrX)	Monocyte count (Mono) (autosome)	Monocyte percentage											
+MPV			Mean platelet (thrombocyte) volume											
+Na	Sodium (Na) (chrX)	Sodium (Na) (autosome)												
+nocturia_frequency														
+optic_disc_cupping														
+optic_fiber_loss	Glaucoma 		Glaucoma suspect	Eye problems/disorders: Glaucoma										
+PCT			Platelet crit											
+PFT_categoric														
+PHOSPHORUS	Phosphorus (P) (chrX)	Phosphorus (P) (autosome)	Phosphate (mmol/L)											
+PLT	Platelet count (Plt) (autosome)	Platelet count (Plt) (chrX)	Platelet count					Essential_thrombocythemia						
+PSA														
+PT	Prothrombin time (PT) (chrX)	Prothrombin time (PT) (autosome)		Other coagulation defects										
+RBC	Red blood cell count (RBC) (chrX)	Red blood cell count (RBC) (autosome)	Red blood cell (erythrocyte) count											
+RDW			Red blood cell (erythrocyte) distribution width											
+Renal_stone	Urolithiasis 		"Non-cancer illness code, self-reported: kidney stone/ureter stone/bladder stone"											
+retardation			Recent changes in speed/amount of moving or speaking											
+SEG_NEUT.	Neutrophil count (Neutro) (autosome)		Neutrophill percentage											
+serum_albumin	Albumin (Alb) (chrX)	Albumin (Alb) (autosome)	Albumin (g/L)											
+serum_protein	Total protein (TP) (chrX)	Total protein (TP) (autosome)	Total protein (g/L)											
+serum_total_bil	Total bilirubin (TBil) (autosome)	Total bilirubin (TBil) (chrX)	Total bilirubin (umol/L)					Bilirubin/_serum_level_of/_quantitative_trait_locus_1/Gilbert's_syndrome/Irinotecan_response/Lucey-Driscoll_syndrome/SN-38_response_-_Other/irinotecan_response_-_Other/not_specified	Bilirubin/_serum_level_of/_quantitative_trait_locus_1	Bilirubin/_serum_level_of/_quantitative_trait_locus_1/Crigler_Najjar_syndrome/_type_1/Crigler-Najjar_syndrome/_type_II/Gilbert's_syndrome/Hyperbilirubinemia/Lucey-Driscoll_syndrome/not_provided				
+smoking_2	"Smoking behaviors : Smoking cessation (autosome, all)"	"Smoking behaviors : Cigarettes per day (autosome, all)"	Tobacco smoking: Never smoked	Tobacco smoking: Ex-smoker	Tobacco smoking: Occasionally	Tobacco smoking: Smokes on most or all days								
+SOL			Trouble falling asleep											
+spine_compression_fracture			Diagnoses - main ICD10: M80 Osteoporosis with pathological fracture											
+spine_disc_narrowing			Diagnoses - main ICD10: M50 Cervical disk disorders	Diagnoses - main ICD10: M51 Other intervertebral disk disorders										
+spine_spondylolisthesis			Spondylolisthesis/Spondylolysis											
+spine_spondylosis			"Non-cancer illness code, self-reported: cervical spondylosis"	Diagnoses - main ICD10: M47 Spondylosis										
+suicidal			Recent thoughts of suicide or self-harm	"Non-cancer illness code, self-reported: deliberate self-harm/suicide attempt"										
+TCO2														
+TG	Triglyceride (TG) (chrX)	Triglyceride (TG) (autosome)	Triglycerides (mmol/L)					Hypertriglyceridemia/_susceptibility_to						
+thyroid_cancer			"Cancer code, self-reported: thyroid cancer"	Malignant neoplasm of thyroid gland	Diagnoses - main ICD10: C73 Malignant neoplasm of thyroid gland									
+Total_chol	Total cholesterol (TC) (autosome)	Total cholesterol (TC) (chrX)	Cholesterol (mmol/L)											
+total_fat_CT_mm2			Trunk fat mass											
+TSH			"Non-cancer illness code, self-reported: hyperthyroidism/thyrotoxicosis"	"Non-cancer illness code, self-reported: hypothyroidism/myxoedema"										
+URIC_ACID	Uric acid (UA) (chrX)	Uric acid (UA) (autosome)	Urate (umol/L)					Blood_group/_Junior_system/Ovarian_Neoplasms/Uric_acid_concentration/_serum/_quantitative_trait_locus_1/allopurinol_response_-_Dosage/_Efficacy/rosuvastatin_response_-_Efficacy	Blood_group/_Junior_system/Uric_acid_concentration/_serum/_quantitative_trait_locus_1					
+urine_PH														
+urine_PU_cat			Microalbumin in urine											
+visceral_fat_CT_mm2														
+VitD3			Vitamin D (nmol/L)											
+WASO			"Trouble falling or staying asleep, or sleeping too much"											
+WBC	White blood cell count (WBC) (autosome)	White blood cell count (WBC) (chrX)	White blood cell (leukocyte) count											
+WC			Waist circumference					OBESITY_(BMIQ14)/_SUSCEPTIBILITY_TO						
+Weight			"Weight, manual entry"	Weight										
